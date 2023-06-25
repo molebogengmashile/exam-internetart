@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/exam-internetart/static/css/main.69084c4f.css",
+    "main.js": "/exam-internetart/static/js/main.5578d46b.js",
+    "static/media/wireframe1.jpg": "/exam-internetart/static/media/wireframe1.13e8cdc2ecf78aa7bb5f.jpg",
+    "static/media/wireframe2.jpg": "/exam-internetart/static/media/wireframe2.59eee4a3bb9b78e3b640.jpg",
+    "static/media/woolworths.jpg": "/exam-internetart/static/media/woolworths.93ab10db65c85d2d0805.jpg",
+    "static/media/Tau.jpg": "/exam-internetart/static/media/Tau.3827f9945292c3703550.jpg",
+    "static/media/Blm.jpg": "/exam-internetart/static/media/Blm.91046e1da0f0a1696cf7.jpg",
+    "static/media/Policecrimes.jpg": "/exam-internetart/static/media/Policecrimes.ca2f6a881b2b826b4150.jpg",
+    "static/media/TheOffice.jpg": "/exam-internetart/static/media/TheOffice.4e2468355092ae5599da.jpg",
+    "static/media/people.jpg": "/exam-internetart/static/media/people.32dbac8321c53877494c.jpg",
+    "static/media/WhiteBLM.jpg": "/exam-internetart/static/media/WhiteBLM.2e4ad3118f9c5c64c719.jpg",
+    "static/media/ukraine.jpg": "/exam-internetart/static/media/ukraine.e5341b5bead86e7eba34.jpg",
+    "static/media/Thabie.png": "/exam-internetart/static/media/Thabie.4c7afa37f479c72203d6.png",
+    "index.html": "/exam-internetart/index.html",
+    "main.69084c4f.css.map": "/exam-internetart/static/css/main.69084c4f.css.map",
+    "main.5578d46b.js.map": "/exam-internetart/static/js/main.5578d46b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69084c4f.css",
+    "static/js/main.5578d46b.js"
+  ]
+}
