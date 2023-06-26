@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 import { Modal } from './Modal'
 
 import {FaBars, FaTimes} from 'react-icons/fa'
+//import GoogleFontLoader from 'react-google-font-loader';
 import Blank from "../assets/Blank.png"
 import './NavbarStyle.css'
 
@@ -17,7 +18,7 @@ export const Navbar = () => {
     const thabie = false;
   return (
     <div className='header'>
-        <Link to='/'><h1>The Goog</h1></Link>
+        <Link to='/'><h1 >The Goog</h1></Link>
         
         <ul className={click? 'nav-menu active' : 'nav-menu'}>
        

@@ -1,0 +1,16 @@
+*{
+    font-family: 'Orbitron', sans-serif;
+}
+
+.board{
+    background-image: url("./assets/Border.png\ -\ Copy.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    justify-content: center;
+     width: 1200px;
+     height: 1080px;
+     margin: 50px 100px 10px 200px;
+     justify-self: center;
+    
+    
+}

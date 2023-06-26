@@ -1,3 +1,7 @@
+*{
+    font-family: 'Orbitron', sans-serif;
+}
+
 .container-art{
     padding: 50px;
     margin: auto;
@@ -18,12 +22,60 @@
     text-align: center;
     
     
-    border: solid 4px rgb(255, 255, 255);
+    
 
 }
 .art-block h1,h2,h3{
     color: #fff;
+    font-family: 'Orbitron', sans-serif;
 }
+.art-block h2{
+    color: #fff;
+    font-family: 'Orbitron', sans-serif;
+}
+.style-guide{
+    margin: 50px;
+    display: block;
+}
+
+.color-box{
+    justify-content: center;
+    display: flex;
+    padding: auto;
+    margin: 20px;
+
+}
+.text-box{
+    
+    padding: auto;
+    margin: 20px;
+
+}
+.black{
+    width: 100px;
+    height: 100px;
+    border: 2px solid white;
+    border-radius: 0px;
+    background-color: #000;
+}
+
+.blue{
+    width: 100px;
+    height: 100px;
+    border: 2px solid white;
+    border-radius: 0px;
+    background-color: #66ff00;
+}
+.white{
+    width: 100px;
+    height: 100px;
+    border: 2px solid white;
+    border-radius: 0px;
+    background-color: white;
+}
+
+
+
 
 .container{
     display: flex;
@@ -32,8 +84,8 @@
     justify-content: space-between;
 }
 .left{
-    border: solid 4px rgb(255, 255, 255);
-    margin: 20px 10px 10px 50px;
+    border: solid 4px #66ff00;
+    margin: 0px 10px 10px 50px;
     padding: 20px;
     height: 800px;
     width: 400px;
@@ -42,8 +94,8 @@
 
 }
 .right{
-    border: solid 4px rgb(255, 255, 255);
-    margin: 20px 50px 10px 10px;
+    border: solid 4px#66ff00;
+    margin: 0px 50px 10px 10px;
     padding: 20px;
     width: 1000px;
     text-align: center;
@@ -54,12 +106,19 @@
 .right .block-1{
     margin: 30px;
     padding: 20px;
-    background-color:#fff;
+    background-color:#000;
     text-align: center;
     display:flex;
+    border: 3px solid #66ff00;
+    border-top: 20px solid #66ff00;
 }
-.right .block-1 p,h1{
-    color: #000;
+.right .block-1 p{
+    color: #fff;
+    font-family: 'Orbitron', sans-serif;
+}
+.right .block-1 h1{
+    color: #fff;
+    font-family: 'Orbitron', sans-serif;
 }
 .right .block-1 img{
     width: 400px;
@@ -70,16 +129,28 @@
     margin: 30px;
     padding: 20px;
    
+  
+    
     text-align: center;
 }
 .left .block p{
     color: #fff;
+    font-family: 'Orbitron', sans-serif;
+}
+.left .block-2 h3{
+    color: #fff;
+    font-family: 'Orbitron', sans-serif;
 }
 
 .left .block-2{
     margin: 30px;
     padding: 20px;
-    background-color:#fff;
+    background-color:#000;
+    border: 3px solid #66ff00;
+    border-top: 20px solid #66ff00;
+   
+    background-image: 300px;
+    background-repeat: no-repeat;
     text-align: center;
     
 }
@@ -100,6 +171,11 @@
 }
 .blogs p,h1,h2,h3{
     color: #000;
+    font-family: 'Orbitron', sans-serif;
+}
+.blogs h2{
+    color: #000;
+    font-family: 'Orbitron', sans-serif;
 }
 
 .wire-frame img{
@@ -107,5 +183,197 @@
     height: 500px;
 
 }
+.game-view{
+    background-image: url('../assets/oldMonitor.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 800px;
+    height: 800px;
+    justify-content: center;
+    padding: 95px;
+    margin: auto;
+    
+  
+}
 
+.game-area{
+    position: relative;
+  margin: 50px auto;
+  width: 570px;
+  height: 420px;
+ 
+ z-index: 1;
 
+}
+
+.snake-dot {
+    position: absolute;
+    width: 2%;
+    height: 2%;
+    background-color: #000;
+    border: 1px solid #fff;
+    z-index: -2;
+  }
+  
+  .snake-food {
+    position: absolute;
+    width: 2%;
+    height: 2%;
+    background: rgb(255, 0, 234);
+    border: 1px solid #fff;
+    z-index: 1;
+  }
+  .blocking-container{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+  }
+  .blocking{
+    width: 100px;
+    height: 100px;
+    background-image: url('../assets/PC.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 3;
+    margin-top: 50px;
+    margin-left: 80px;
+    border-radius: 0px 0px 0px 0px;
+   
+  }
+  .blocking-1{
+    width: 120px;
+    height: 120px;
+    background-image: url('../assets/sub.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 3;
+    margin-top: 20px;
+    margin-left: 200px;
+    border-radius: 0px 0px 0px 0px;
+  }
+ 
+  .blocking-3{
+    width: 90px;
+    height: 90px;
+    background-image: url('../assets/Hair.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 3;
+    margin-top:2;
+    margin-left: 10px;
+    border-radius: 0px 0px 0px 0px;
+  }
+  .blocking-4{
+    width:400px;
+    height: 200px;
+    background-image: url('../assets/woman.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 3;
+    margin-top: 20px;
+    margin-left: 80px;
+    border-radius: 0px 0px 0px 0px;
+  }
+  .blocking-5{
+    width: 300px;
+    height: 120px;
+    background-image: url('../assets/edu.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 3;
+    margin-top: 0px;
+    margin-left: 350px;
+    border-radius: 0px 0px 0px 0px;
+  }
+  
+
+  @media screen and (max-width:1240px){
+    .game-view{
+        width: 400px;
+        height: 400px;
+
+    }
+    .game-area{
+        width: 200px;
+        height: 200px;
+        margin-top: 20px;
+    }
+    .blocking-container{
+        display: block;
+        width: 200px;
+        height: 200px;
+      }
+
+      .blocking{
+        width: 50px;
+        height: 50px;
+        
+        z-index: 10;
+        margin-top: 40px;
+        margin-left: 40px;
+        border-radius: 0px 0px 0px 0px;
+       
+      }
+      .blocking-1{
+        width: 100px;
+        height: 80px;
+        
+        z-index: 10;
+        margin-top: 20px;
+        margin-left: 80px;
+        border-radius: 0px 0px 0px 0px;
+      }
+     
+      .blocking-3{
+        width: 40px;
+        height: 40px;
+        
+        z-index: 10;
+        margin-top:2;
+        margin-left: 10px;
+        border-radius: 0px 0px 0px 0px;
+      }
+      .blocking-4{
+        width:150px;
+        height: 50px;
+        
+        z-index: 10;
+        margin-top: 20px;
+        margin-left: 40px;
+        border-radius: 0px 0px 0px 0px;
+      }
+      .blocking-5{
+        width: 100px;
+        height: 70px;
+        
+        z-index: 10;
+        margin-top: 10px;
+        margin-left: 50px;
+        border-radius: 0px 0px 0px 0px;
+      }
+      
+      .container{
+        display: block;
+        justify-content: center;
+      }
+      .left{
+        width: 600px;
+        justify-self: center;
+      }
+      .right{
+        width: 600px;
+        justify-self: center;
+        display: block;
+      }
+      .right .block-1{
+        margin: 10px;
+        padding: 10px;
+        background-color:#000;
+        text-align: center;
+        display:block;
+        border: 3px solid #4ad3e1;
+        border-top: 20px solid #4ad3e1;
+    }
+
+     
+  }

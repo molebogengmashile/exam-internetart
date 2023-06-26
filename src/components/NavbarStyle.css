@@ -1,12 +1,19 @@
+*{
+    
+    font-family: 'Orbitron', sans-serif;
+   
+}
 .header{
     display: flex;
     justify-content: space-between;
     
     
 
-    border: solid 4px #fff;
+   
     margin: 50px 50px 10px 50px;;
     padding: 20px;
+    border-radius: 20px 20px 20px 20px;
+    font-family: 'Orbitron', sans-serif;
     
    
 }

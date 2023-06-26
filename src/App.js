@@ -1,8 +1,8 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import './App.css';
-import { Art } from './components/Art';
-import { ArtT } from './components/ArtT';
+import Art  from './routes/Art';
+import ArtT from './routes/ArtT';
 import { BlogsJ } from './components/BlogsJ';
 import { BlogsT } from './components/BlogsT';
 import { Design } from './components/Design';
@@ -15,7 +15,7 @@ function App() {
   return (
     <>
     <Routes Basename={process.env.PUBLIC_URL}>
-      <Route path='/internetart' element={<Home/>}></Route>
+      <Route path='/' element={<Home/>}></Route>
       <Route path='/art' element={<Art/>}></Route>
       <Route path='/artT' element={<ArtT/>}></Route>
       <Route path='/design' element={<Design/>}></Route>
