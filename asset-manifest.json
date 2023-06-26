@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/exam-internetart/static/css/main.e04a620d.css",
-    "main.js": "/exam-internetart/static/js/main.0007147d.js",
+    "main.css": "/exam-internetart/static/css/main.f44c2463.css",
+    "main.js": "/exam-internetart/static/js/main.406ed04d.js",
     "static/media/wireframe1.jpg": "/exam-internetart/static/media/wireframe1.13e8cdc2ecf78aa7bb5f.jpg",
     "static/media/wireframe2.jpg": "/exam-internetart/static/media/wireframe2.59eee4a3bb9b78e3b640.jpg",
     "static/media/oldMonitor.png": "/exam-internetart/static/media/oldMonitor.52c8438b5a69200ef60a.png",
@@ -21,11 +21,11 @@
     "static/media/ukraine.jpg": "/exam-internetart/static/media/ukraine.e5341b5bead86e7eba34.jpg",
     "static/media/Thabie.png": "/exam-internetart/static/media/Thabie.4c7afa37f479c72203d6.png",
     "index.html": "/exam-internetart/index.html",
-    "main.e04a620d.css.map": "/exam-internetart/static/css/main.e04a620d.css.map",
-    "main.0007147d.js.map": "/exam-internetart/static/js/main.0007147d.js.map"
+    "main.f44c2463.css.map": "/exam-internetart/static/css/main.f44c2463.css.map",
+    "main.406ed04d.js.map": "/exam-internetart/static/js/main.406ed04d.js.map"
   },
   "entrypoints": [
-    "static/css/main.e04a620d.css",
-    "static/js/main.0007147d.js"
+    "static/css/main.f44c2463.css",
+    "static/js/main.406ed04d.js"
   ]
 }
