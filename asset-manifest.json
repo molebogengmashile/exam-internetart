@@ -1,24 +1,31 @@
 {
   "files": {
-    "main.css": "/exam-internetart/static/css/main.69084c4f.css",
-    "main.js": "/exam-internetart/static/js/main.5578d46b.js",
+    "main.css": "/exam-internetart/static/css/main.e04a620d.css",
+    "main.js": "/exam-internetart/static/js/main.5811e417.js",
     "static/media/wireframe1.jpg": "/exam-internetart/static/media/wireframe1.13e8cdc2ecf78aa7bb5f.jpg",
     "static/media/wireframe2.jpg": "/exam-internetart/static/media/wireframe2.59eee4a3bb9b78e3b640.jpg",
+    "static/media/oldMonitor.png": "/exam-internetart/static/media/oldMonitor.52c8438b5a69200ef60a.png",
+    "static/media/edu.png": "/exam-internetart/static/media/edu.a4a683fbde3e209c09b8.png",
+    "static/media/Hair.png": "/exam-internetart/static/media/Hair.71e6b37ba76dc65e2eaf.png",
     "static/media/woolworths.jpg": "/exam-internetart/static/media/woolworths.93ab10db65c85d2d0805.jpg",
+    "static/media/woman.png": "/exam-internetart/static/media/woman.7f1d12a18d84d386287f.png",
+    "static/media/sub.png": "/exam-internetart/static/media/sub.8b3260d3a7c961d92f92.png",
+    "static/media/PC.png": "/exam-internetart/static/media/PC.e6e916157f26da2dc7de.png",
     "static/media/Tau.jpg": "/exam-internetart/static/media/Tau.3827f9945292c3703550.jpg",
     "static/media/Blm.jpg": "/exam-internetart/static/media/Blm.91046e1da0f0a1696cf7.jpg",
     "static/media/Policecrimes.jpg": "/exam-internetart/static/media/Policecrimes.ca2f6a881b2b826b4150.jpg",
     "static/media/TheOffice.jpg": "/exam-internetart/static/media/TheOffice.4e2468355092ae5599da.jpg",
+    "static/media/Border.png - Copy.png": "/exam-internetart/static/media/Border.png - Copy.14d58e574fffb9ff056f.png",
     "static/media/people.jpg": "/exam-internetart/static/media/people.32dbac8321c53877494c.jpg",
     "static/media/WhiteBLM.jpg": "/exam-internetart/static/media/WhiteBLM.2e4ad3118f9c5c64c719.jpg",
     "static/media/ukraine.jpg": "/exam-internetart/static/media/ukraine.e5341b5bead86e7eba34.jpg",
     "static/media/Thabie.png": "/exam-internetart/static/media/Thabie.4c7afa37f479c72203d6.png",
     "index.html": "/exam-internetart/index.html",
-    "main.69084c4f.css.map": "/exam-internetart/static/css/main.69084c4f.css.map",
-    "main.5578d46b.js.map": "/exam-internetart/static/js/main.5578d46b.js.map"
+    "main.e04a620d.css.map": "/exam-internetart/static/css/main.e04a620d.css.map",
+    "main.5811e417.js.map": "/exam-internetart/static/js/main.5811e417.js.map"
   },
   "entrypoints": [
-    "static/css/main.69084c4f.css",
-    "static/js/main.5578d46b.js"
+    "static/css/main.e04a620d.css",
+    "static/js/main.5811e417.js"
   ]
 }
