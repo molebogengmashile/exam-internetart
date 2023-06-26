@@ -11,6 +11,59 @@ export const BlogsJ = () => {
 <section className='container-art'>
       
 <div className='art-block'>
+<div className='blogs'>
+       <h2>Essay: Miao Ying's Blind Spot </h2>
+           <p>
+           For my internet artwork, I was interested in how the internet becomes a reflection of real life. Our internet interactions become 
+           similar to our physical social interactions. One artwork, which I think best represents a reflection of how we interact with society
+            both in real life and digitally is Miao Ying's Blind Spot (2007). Blind Spot is an 1869-page Mandarin dictionary that Miao Ying manually
+             annotated to show the 2000 search terms that were censored in China at the time. This essay will analyze the relationship of between the
+              internet and real life as well as explain the extent in which Miao Ying's Blind Spot demonstrates how our spaces are not our own. I will 
+              also be explaining how this particular piece acts as an inspiration for my own artwork. 
+          <br></br>
+          <br></br>
+
+          Censorship in China is a highly controversial topic that has received significant attention from the international community. The Chinese government
+           has implemented strict censorship laws and regulations to control the flow of information within the country. This has resulted in a heavily monitored media 
+           
+           landscape, where access to certain websites and social media platforms is restricted or blocked entirely (Albert and Xu, 2017). The censorship laws also extend to print media,
+            with books, newspapers and magazines subject to pre-publication review by government officials. While the Chinese government claims that these measures are necessary for maintaining social stability and protecting national security, critics argue that they infringe upon free speech rights and limit access to information for citizens. Understanding the complexities of
+           censorship in China is crucial for us as it is a clear example of how what is allowed in real life is also allowed online. 
+
+           <br></br>
+          <br></br>
+          Through this thought-provoking creation, Ying challenges our perception of the internet as an unrestricted space. She deftly draws 
+          attention to the barriers and blind spots that govern our online interactions, mirroring the constraints and regulations we encounter in
+           our physical lives. It is a witty commentary on the intertwined nature of the real and digital worlds, urging us to question the extent of
+            our freedom and autonomy in both spheres. Although this art work is in book form, it would not have been possible to create it without the
+             internet. The internet gives access to a wide variety of information in very little time. Dictionaries, which take a lot more time to navigate
+              through, are also harder to get access to. To have internet censorship be more important than physical media, show how much of a threat it is to large 
+              corporations. This artwork inspires me to want to reflect my own digital
+           life in the real world. I want to show it's not just the websites we visit and shape our world view, but also those who own them.
+
+           <br></br>
+          <br></br>
+
+          In a world where the internet has become an integral part of our lives, Miao Ying's masterpiece holds a mirror up to society, reflecting the 
+          intricate connection between our physical and digital interactions. Through her thought-provoking artwork, 
+          she challenges us to question the boundaries and limitations imposed upon us online, just as they exist in our day-to-day lives. 
+
+           <br></br>
+          <br></br>
+          References:
+          <br></br>
+          <ol>
+          
+            <li> Miao Ying's Blind Spot (2007) <a href='https://anthology.rhizome.org/blind-spot'>Found here</a></li>
+            <li>Media Censorship of China <a href='https://www.cfr.org/backgrounder/media-censorship-china'>Found here</a>  </li>
+
+          </ol>
+         
+           </p>
+       </div>
+
+
+
        <div className='blogs'>
        <h2>Blog 1: Internet Art</h2>
            <p>

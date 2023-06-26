@@ -181,7 +181,7 @@ render (){
                        same information, some aspects of it are hidden or highlighted depending on who you are and how you use the internet.
                         The snakes are allowed to endlessly explore the same space but never really explore the same space. 
                          Although we are the ones teaching this racism on the internet, don't these companies also have the responsibility of providing
-                        us with accurate representations of the world?  </p>
+                        us with accurate representations of the world? These "popup" ads aim to represent what each individual has been exposed to on the internet and how this affects how they navigate through other spaces. In Thabie's game, the ads are of beauty products as well as the need to be successful. In John's game, the ads are of middle class to wealthy people's interactions.  </p>
 
           </div>
         </div>
